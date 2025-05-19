@@ -1,7 +1,6 @@
 # A flutter wrapper
 
-
-[![Packaging status](https://repology.org/badge/vertical-allrepos/flutterup.svg)](https://repology.org/project/flutterup/versions)
+A BeyondAUR modified fork
 
 ## One easy command to manage and install flutter
 
